@@ -1,4 +1,4 @@
-baseURL = "http://coolpanda.github.io/pointer-doc/"
+baseURL = "https://coolpanda.github.io/pointer-doc/"
 languageCode = "zh-cn"
 title = "Pointer Doc"
 
